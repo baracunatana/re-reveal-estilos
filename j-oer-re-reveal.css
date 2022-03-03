@@ -1,0 +1,39 @@
+.reveal .coliz {
+  float: left;
+  width: 48%; }
+
+.reveal .colde {
+  float: right;
+  width: 48%; }
+
+.reveal .coliz30 {
+  float: left;
+  width: 28%; }
+
+.reveal .colde30 {
+  float: right;
+  width: 28%; }
+
+.reveal .coliz40 {
+  float: left;
+  width: 38%; }
+
+.reveal .colde40 {
+  float: right;
+  width: 38%; }
+
+.reveal .coliz60 {
+  float: left;
+  width: 58%; }
+
+.reveal .colde60 {
+  float: right;
+  width: 58%; }
+
+.reveal .coliz70 {
+  float: left;
+  width: 68%; }
+
+.reveal .colde70 {
+  float: right;
+  width: 68%; }
